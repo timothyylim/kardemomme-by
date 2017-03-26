@@ -1,4 +1,4 @@
 # kardemomme-by
-Experiment with H5P Speak the Words. 
+Experiment with H5P Speak the Words:
 
-Demo here: https://timothyylim.github.io/kardemomme-by/
+https://timothyylim.github.io/kardemomme-by/
